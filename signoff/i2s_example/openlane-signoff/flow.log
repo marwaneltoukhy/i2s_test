@@ -1,0 +1,450 @@
+Starting…
+Gating variable for step 'Verilator.Lint' set to 'False'- the step will be skipped.
+Skipping step 'Verilator Lint'…
+Gating variable for step 'Checker.LintTimingConstructs' set to 'False'- the step will be skipped.
+Skipping step 'Lint Timing Error Checker'…
+Gating variable for step 'Checker.LintErrors' set to 'False'- the step will be skipped.
+Skipping step 'Lint Errors Checker'…
+Gating variable for step 'Checker.LintWarnings' set to 'False'- the step will be skipped.
+Skipping step 'Lint Warnings Checker'…
+Check for Unmapped Yosys instances clear.
+Check for Yosys check errors clear.
+No macros found, skipping instance check…
+Starting STA for the nom_tt_025C_1v80 timing corner…
+Starting STA for the nom_ss_100C_1v60 timing corner…
+Starting STA for the nom_ff_n40C_1v95 timing corner…
+Skipping corner min_tt_025C_1v80 for STA (identical to nom_tt_025C_1v80 at this stage)…
+Skipping corner min_ss_100C_1v60 for STA (identical to nom_ss_100C_1v60 at this stage)…
+Skipping corner min_ff_n40C_1v95 for STA (identical to nom_ff_n40C_1v95 at this stage)…
+Skipping corner max_tt_025C_1v80 for STA (identical to nom_tt_025C_1v80 at this stage)…
+Skipping corner max_ss_100C_1v60 for STA (identical to nom_ss_100C_1v60 at this stage)…
+Skipping corner max_ff_n40C_1v95 for STA (identical to nom_ff_n40C_1v95 at this stage)…
+Finished STA for the nom_ff_n40C_1v95 timing corner.
+Finished STA for the nom_ss_100C_1v60 timing corner.
+Finished STA for the nom_tt_025C_1v80 timing corner.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+No cells provided, skipping…
+No instances found, skipping 'Odb.ManualMacroPlacement'…
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+'PDN_OBSTRUCTIONS' is not defined. Skipping 'Odb.AddPDNObstructions'…
+'FP_PDN_CFG' not explicitly set, setting it to /nix/store/89jdlng21j5db7pfhwqygg91bvyvdysc-python3-3.11.9-env/lib/python3.11/site-packages/openlane/scripts/openroad/common/pdn_cfg.tcl…
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+'PDN_OBSTRUCTIONS' is not defined. Skipping 'Odb.RemovePDNObstructions'…
+'ROUTING_OBSTRUCTIONS' is not defined. Skipping 'Odb.AddRoutingObstructions'…
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+No custom floorplan file configured, skipping…
+No DEF template provided, skipping…
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+Check for power grid violations (as reported by OpenROAD PSM- you may ignore these if LVS passes) clear.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[GRT-0097] No global routing found for nets.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+'MANUAL_GLOBAL_PLACEMENTS' not set, skipping…
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[GRT-0097] No global routing found for nets.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[GRT-0097] No global routing found for nets.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+Gating variable for step 'OpenROAD.RepairDesignPostGRT' set to 'False'- the step will be skipped.
+Skipping step 'Repair Design (Post-Global Routing)'…
+'DIODE_ON_PORTS' is set to 'none': skipping…
+'GPL_CELL_PADDING' is set to 0. This step may cause overlap failures.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+Gating variable for step 'OpenROAD.ResizerTimingPostGRT' set to 'False'- the step will be skipped.
+Skipping step 'Resizer Timing Optimizations (Post-Global Routing)'…
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+Running TritonRoute with 8 threads…
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer mcon
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer mcon
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via2
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via2
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via3
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via3
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via4
+[DRT-0349] LEF58_ENCLOSURE with no CUTCLASS is not supported. Skipping for layer via4
+'ROUTING_OBSTRUCTIONS' is not defined. Skipping 'Odb.RemoveRoutingObstructions'…
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+Check for Routing DRC errors clear.
+Check for critical disconnected pins clear.
+Threshold for Threshold-surpassing long wires is not set. The checker will be skipped.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+Running RCX for corners matching nom_* (/Users/marwan/work/i2s_test/openlane/i2s_example/runs/RUN_2024-11-03_20-34-03/50-openroad-rcx/nom/rcx.log)…
+Running RCX for corners matching min_* (/Users/marwan/work/i2s_test/openlane/i2s_example/runs/RUN_2024-11-03_20-34-03/50-openroad-rcx/min/rcx.log)…
+Running RCX for corners matching max_* (/Users/marwan/work/i2s_test/openlane/i2s_example/runs/RUN_2024-11-03_20-34-03/50-openroad-rcx/max/rcx.log)…
+Finished RCX for corners matching max_*.
+Finished RCX for corners matching min_*.
+Finished RCX for corners matching nom_*.
+Starting STA for the nom_tt_025C_1v80 timing corner…
+Starting STA for the nom_ss_100C_1v60 timing corner…
+Starting STA for the nom_ff_n40C_1v95 timing corner…
+Starting STA for the min_tt_025C_1v80 timing corner…
+Starting STA for the min_ss_100C_1v60 timing corner…
+Starting STA for the min_ff_n40C_1v95 timing corner…
+Starting STA for the max_tt_025C_1v80 timing corner…
+Starting STA for the max_ss_100C_1v60 timing corner…
+Finished STA for the min_tt_025C_1v80 timing corner.
+Finished STA for the nom_tt_025C_1v80 timing corner.
+Finished STA for the min_ss_100C_1v60 timing corner.
+Finished STA for the nom_ss_100C_1v60 timing corner.
+Finished STA for the nom_ff_n40C_1v95 timing corner.
+Finished STA for the max_tt_025C_1v80 timing corner.
+Finished STA for the min_ff_n40C_1v95 timing corner.
+Finished STA for the max_ss_100C_1v60 timing corner.
+Starting STA for the max_ff_n40C_1v95 timing corner…
+Finished STA for the max_ff_n40C_1v95 timing corner.
+'VSRC_LOC_FILES' was not given a value, which may make the results of IR drop analysis inaccurate. If you are not integrating a top-level chip for manufacture, you may ignore this warning, otherwise, see the documentation for 'VSRC_LOC_FILES'.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'io_in[*]' not found.
+[STA-0366] port 'la_oenb[*]' not found.
+[STA-0366] port 'la_data_in[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'la_data_out[*]' not found.
+[STA-0366] port 'user_irq[*]' not found.
+Cell 'i2s_example' has (23) input pin(s) without antenna gate information. They might not be connected to a gate.
+Cell 'i2s_example' has (5) output pin(s) without antenna diffusion information. They might not be driven.
+Running XOR with 8 threads…
+Check for XOR differences clear.
+Running KLayout DRC with 8 threads…
+Check for Magic DRC errors clear.
+Check for KLayout DRC errors clear.
+Check for Magic Illegal Overlap errors clear.
+Check for LVS errors clear.
+Gating variable for step 'Yosys.EQY' set to 'False'- the step will be skipped.
+Skipping step 'Equivalence Check'…
+Max Slew violations found in the following corners:
+* max_ss_100C_1v60
+* min_ss_100C_1v60
+* nom_ss_100C_1v60
+Saving views to '/Users/marwan/work/i2s_test/openlane/i2s_example/runs/RUN_2024-11-03_20-34-03/final'…
+Flow complete.
